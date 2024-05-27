@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "HelloQt",
+    "description": "The title in the navbar"
+  },
+  "item.label.Theme Documentation": {
+    "message": "Theme Documentation",
+    "description": "Navbar item with label Theme Documentation"
+  }
+}

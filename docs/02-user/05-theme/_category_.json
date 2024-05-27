@@ -1,0 +1,11 @@
+{
+    "label": "Theme",
+    "position": 10,
+    "link": {
+        "slug": "user/theme",
+        "type": "generated-index"
+    },
+    "customProps": {
+        "description": "Managing overall site design and layout."
+    }
+}

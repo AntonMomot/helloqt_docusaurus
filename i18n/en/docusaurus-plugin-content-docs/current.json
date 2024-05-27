@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.User Guide": {
+    "message": "User Guide",
+    "description": "The label for category User Guide in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Theme": {
+    "message": "Theme",
+    "description": "The label for category Theme in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Internationalization": {
+    "message": "Internationalization",
+    "description": "The label for category Internationalization in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Technical Guide": {
+    "message": "Technical Guide",
+    "description": "The label for category Technical Guide in sidebar docsSidebar"
+  }
+}
