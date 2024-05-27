@@ -13,7 +13,7 @@ const config: Config = {
     url: "https://AntonMomot.github.io",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: "/helloqt_docusaurus/docs/",
+    baseUrl: "/helloqt_docusaurus/",
     deploymentBranch: 'main',
 
     trailingSlash: false,
