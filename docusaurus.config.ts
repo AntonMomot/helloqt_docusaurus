@@ -2,8 +2,6 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
-const isProd = process.env.NODE_ENV === "production";
-
 const config: Config = {
     title: "HelloQt Theme Documentation",
     tagline: "Theme documentation for HelloQt.de",
@@ -13,7 +11,7 @@ const config: Config = {
     url: "https://AntonMomot.github.io",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: "/helloqt_docusaurus/",
+    baseUrl: "/docusaurus/build/",
     deploymentBranch: 'main',
 
     trailingSlash: false,
@@ -24,10 +22,10 @@ const config: Config = {
     // useful metadata like html lang. For example, if your site is Chinese, you
     // may want to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: "en",
-        locales: ["en"],
+        defaultLocale: 'en',
+        locales: ['en'],
     },
-    clientModules: ["./src/_global.ts"],
+    // clientModules: ["./src/_global.ts"],
 
     presets: [
         [
