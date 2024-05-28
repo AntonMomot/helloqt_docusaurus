@@ -31,10 +31,10 @@ const config: Config = {
 
     presets: [
         [
-            "classic",
+            "@docusaurus/preset-classic",
             {
                 docs: {
-                    // routeBasePath: "/",
+                    routeBasePath: "/",
                     sidebarPath: "./sidebars.ts",
                     include: ["**/*.md", "**/*.mdx"],
                     exclude: ["**/_*.{js,jsx,ts,tsx,md,mdx}", "**/_*/**"],

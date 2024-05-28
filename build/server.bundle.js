@@ -29,7 +29,7 @@ const metadata = {
   "source": "@site/docs/01-overview.md",
   "sourceDirName": ".",
   "slug": "/overview",
-  "permalink": "/docusaurus/docs/overview",
+  "permalink": "/helloqt_docusaurus/docs/overview",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -41,11 +41,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docusaurus/docs/"
+    "permalink": "/helloqt_docusaurus/docs/"
   },
   "next": {
     "title": "User Guide",
-    "permalink": "/docusaurus/docs/user"
+    "permalink": "/helloqt_docusaurus/docs/user"
   }
 };
 const assets = {
@@ -147,7 +147,7 @@ const metadata = {
   "source": "@site/docs/02-user/01-pages.md",
   "sourceDirName": "02-user",
   "slug": "/user/pages",
-  "permalink": "/docusaurus/docs/user/pages",
+  "permalink": "/helloqt_docusaurus/docs/user/pages",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -159,11 +159,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "User Guide",
-    "permalink": "/docusaurus/docs/user"
+    "permalink": "/helloqt_docusaurus/docs/user"
   },
   "next": {
     "title": "Blog Posts",
-    "permalink": "/docusaurus/docs/user/posts"
+    "permalink": "/helloqt_docusaurus/docs/user/posts"
   }
 };
 const assets = {
@@ -229,7 +229,7 @@ const metadata = {
   "source": "@site/docs/02-user/02-posts.md",
   "sourceDirName": "02-user",
   "slug": "/user/posts",
-  "permalink": "/docusaurus/docs/user/posts",
+  "permalink": "/helloqt_docusaurus/docs/user/posts",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -241,11 +241,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Pages",
-    "permalink": "/docusaurus/docs/user/pages"
+    "permalink": "/helloqt_docusaurus/docs/user/pages"
   },
   "next": {
     "title": "Author Profiles",
-    "permalink": "/docusaurus/docs/user/authors"
+    "permalink": "/helloqt_docusaurus/docs/user/authors"
   }
 };
 const assets = {
@@ -311,7 +311,7 @@ const metadata = {
   "source": "@site/docs/02-user/03-authors.md",
   "sourceDirName": "02-user",
   "slug": "/user/authors",
-  "permalink": "/docusaurus/docs/user/authors",
+  "permalink": "/helloqt_docusaurus/docs/user/authors",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -323,11 +323,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Blog Posts",
-    "permalink": "/docusaurus/docs/user/posts"
+    "permalink": "/helloqt_docusaurus/docs/user/posts"
   },
   "next": {
     "title": "Case Studies",
-    "permalink": "/docusaurus/docs/user/case-studies"
+    "permalink": "/helloqt_docusaurus/docs/user/case-studies"
   }
 };
 const assets = {
@@ -554,7 +554,7 @@ const metadata = {
   "source": "@site/docs/02-user/04-contact-forms.md",
   "sourceDirName": "02-user",
   "slug": "/user/contact-forms",
-  "permalink": "/docusaurus/docs/user/contact-forms",
+  "permalink": "/helloqt_docusaurus/docs/user/contact-forms",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -566,11 +566,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Case Studies",
-    "permalink": "/docusaurus/docs/user/case-studies"
+    "permalink": "/helloqt_docusaurus/docs/user/case-studies"
   },
   "next": {
     "title": "Theme",
-    "permalink": "/docusaurus/docs/user/theme"
+    "permalink": "/helloqt_docusaurus/docs/user/theme"
   }
 };
 const assets = {
@@ -1057,7 +1057,7 @@ const metadata = {
   "source": "@site/docs/02-user/05-theme/blocks.md",
   "sourceDirName": "02-user/05-theme",
   "slug": "/user/theme/blocks",
-  "permalink": "/docusaurus/docs/user/theme/blocks",
+  "permalink": "/helloqt_docusaurus/docs/user/theme/blocks",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1070,11 +1070,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Navigation Menus",
-    "permalink": "/docusaurus/docs/user/theme/navigation-menus"
+    "permalink": "/helloqt_docusaurus/docs/user/theme/navigation-menus"
   },
   "next": {
     "title": "Internationalization",
-    "permalink": "/docusaurus/docs/internationalization"
+    "permalink": "/helloqt_docusaurus/docs/internationalization"
   }
 };
 const assets = {
@@ -1141,7 +1141,7 @@ const metadata = {
   "source": "@site/docs/02-user/05-theme/navigation-menus.md",
   "sourceDirName": "02-user/05-theme",
   "slug": "/user/theme/navigation-menus",
-  "permalink": "/docusaurus/docs/user/theme/navigation-menus",
+  "permalink": "/helloqt_docusaurus/docs/user/theme/navigation-menus",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1154,11 +1154,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Template Parts",
-    "permalink": "/docusaurus/docs/user/theme/template-parts"
+    "permalink": "/helloqt_docusaurus/docs/user/theme/template-parts"
   },
   "next": {
     "title": "Blocks",
-    "permalink": "/docusaurus/docs/user/theme/blocks"
+    "permalink": "/helloqt_docusaurus/docs/user/theme/blocks"
   }
 };
 const assets = {
@@ -1284,7 +1284,7 @@ const metadata = {
   "source": "@site/docs/02-user/05-theme/template-parts.md",
   "sourceDirName": "02-user/05-theme",
   "slug": "/user/theme/template-parts",
-  "permalink": "/docusaurus/docs/user/theme/template-parts",
+  "permalink": "/helloqt_docusaurus/docs/user/theme/template-parts",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1297,11 +1297,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Templates",
-    "permalink": "/docusaurus/docs/user/theme/templates"
+    "permalink": "/helloqt_docusaurus/docs/user/theme/templates"
   },
   "next": {
     "title": "Navigation Menus",
-    "permalink": "/docusaurus/docs/user/theme/navigation-menus"
+    "permalink": "/helloqt_docusaurus/docs/user/theme/navigation-menus"
   }
 };
 const assets = {
@@ -1440,7 +1440,7 @@ const metadata = {
   "source": "@site/docs/02-user/05-theme/templates.md",
   "sourceDirName": "02-user/05-theme",
   "slug": "/user/theme/templates",
-  "permalink": "/docusaurus/docs/user/theme/templates",
+  "permalink": "/helloqt_docusaurus/docs/user/theme/templates",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1453,11 +1453,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Theme",
-    "permalink": "/docusaurus/docs/user/theme"
+    "permalink": "/helloqt_docusaurus/docs/user/theme"
   },
   "next": {
     "title": "Template Parts",
-    "permalink": "/docusaurus/docs/user/theme/template-parts"
+    "permalink": "/helloqt_docusaurus/docs/user/theme/template-parts"
   }
 };
 const assets = {
@@ -1743,7 +1743,7 @@ const metadata = {
   "source": "@site/docs/02-user/case-studies.md",
   "sourceDirName": "02-user",
   "slug": "/user/case-studies",
-  "permalink": "/docusaurus/docs/user/case-studies",
+  "permalink": "/helloqt_docusaurus/docs/user/case-studies",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1756,11 +1756,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Author Profiles",
-    "permalink": "/docusaurus/docs/user/authors"
+    "permalink": "/helloqt_docusaurus/docs/user/authors"
   },
   "next": {
     "title": "Contact Forms",
-    "permalink": "/docusaurus/docs/user/contact-forms"
+    "permalink": "/helloqt_docusaurus/docs/user/contact-forms"
   }
 };
 const assets = {
@@ -1863,7 +1863,7 @@ const metadata = {
   "source": "@site/docs/03-i18n/overview.md",
   "sourceDirName": "03-i18n",
   "slug": "/i18n/overview",
-  "permalink": "/docusaurus/docs/i18n/overview",
+  "permalink": "/helloqt_docusaurus/docs/i18n/overview",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1875,11 +1875,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Internationalization",
-    "permalink": "/docusaurus/docs/internationalization"
+    "permalink": "/helloqt_docusaurus/docs/internationalization"
   },
   "next": {
     "title": "Technical Guide",
-    "permalink": "/docusaurus/docs/dev"
+    "permalink": "/helloqt_docusaurus/docs/dev"
   }
 };
 const assets = {
@@ -1950,7 +1950,7 @@ const metadata = {
   "source": "@site/docs/04-dev/overview.mdx",
   "sourceDirName": "04-dev",
   "slug": "/dev/overview",
-  "permalink": "/docusaurus/docs/dev/overview",
+  "permalink": "/helloqt_docusaurus/docs/dev/overview",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -1962,11 +1962,11 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Technical Guide",
-    "permalink": "/docusaurus/docs/dev"
+    "permalink": "/helloqt_docusaurus/docs/dev"
   },
   "next": {
     "title": "Glossary",
-    "permalink": "/docusaurus/docs/glossary"
+    "permalink": "/helloqt_docusaurus/docs/glossary"
   }
 };
 const assets = {
@@ -2030,7 +2030,7 @@ const metadata = {
   "source": "@site/docs/05-glossary.mdx",
   "sourceDirName": ".",
   "slug": "/glossary",
-  "permalink": "/docusaurus/docs/glossary",
+  "permalink": "/helloqt_docusaurus/docs/glossary",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -2040,7 +2040,7 @@ const metadata = {
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/docusaurus/docs/dev/overview"
+    "permalink": "/helloqt_docusaurus/docs/dev/overview"
   }
 };
 const assets = {
@@ -2203,7 +2203,7 @@ const metadata = {
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docusaurus/docs/",
+  "permalink": "/helloqt_docusaurus/docs/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -2216,7 +2216,7 @@ const metadata = {
   "sidebar": "docsSidebar",
   "next": {
     "title": "Theme Overview",
-    "permalink": "/docusaurus/docs/overview"
+    "permalink": "/helloqt_docusaurus/docs/overview"
   }
 };
 const assets = {
@@ -2327,7 +2327,7 @@ const frontMatter = {};
 const contentTitle = 'Home';
 const metadata = {
   "type": "mdx",
-  "permalink": "/docusaurus/",
+  "permalink": "/helloqt_docusaurus/",
   "source": "@site/src/pages/index.md",
   "title": "Home",
   "frontMatter": {},
@@ -2423,9 +2423,9 @@ function _interopRequireWildcard(e, r) {
 var lib = __webpack_require__(3259);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 ;// CONCATENATED MODULE: ./.docusaurus/routesChunkNames.json
-const routesChunkNames_namespaceObject = /*#__PURE__*/JSON.parse('{"/docusaurus/docs-bd9":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/docusaurus/docs-afa":{"__comp":"a7bd4aaa","__props":"e5c1c24f"},"/docusaurus/docs-7f9":{"__comp":"a94703ab"},"/docusaurus/docs-22a":{"__comp":"17896441","content":"c377a04b"},"/docusaurus/docs/dev-70c":{"__comp":"14eb3368","__props":"d2655b0a"},"/docusaurus/docs/dev/overview-07c":{"__comp":"17896441","content":"6db204ee"},"/docusaurus/docs/glossary-113":{"__comp":"17896441","content":"77016838"},"/docusaurus/docs/i18n/overview-37b":{"__comp":"17896441","content":"0735fdac"},"/docusaurus/docs/internationalization-693":{"__comp":"14eb3368","__props":"aef418c3"},"/docusaurus/docs/overview-026":{"__comp":"17896441","content":"ddb4e1f1"},"/docusaurus/docs/user-de2":{"__comp":"14eb3368","__props":"a75341ac"},"/docusaurus/docs/user/authors-3cf":{"__comp":"17896441","content":"65f89028"},"/docusaurus/docs/user/case-studies-5d3":{"__comp":"17896441","content":"646028d3"},"/docusaurus/docs/user/contact-forms-560":{"__comp":"17896441","content":"58cbb1bf"},"/docusaurus/docs/user/pages-b87":{"__comp":"17896441","content":"db75cae2"},"/docusaurus/docs/user/posts-086":{"__comp":"17896441","content":"01a93421"},"/docusaurus/docs/user/theme-e6e":{"__comp":"14eb3368","__props":"f726bd82"},"/docusaurus/docs/user/theme/blocks-e15":{"__comp":"17896441","content":"0a4913c9"},"/docusaurus/docs/user/theme/navigation-menus-146":{"__comp":"17896441","content":"18f20f41"},"/docusaurus/docs/user/theme/template-parts-cf2":{"__comp":"17896441","content":"b0d445e1"},"/docusaurus/docs/user/theme/templates-e41":{"__comp":"17896441","content":"357ecb0e"},"/docusaurus/-13c":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"f3976560"}}');
+const routesChunkNames_namespaceObject = /*#__PURE__*/JSON.parse('{"/helloqt_docusaurus/docs-a86":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/helloqt_docusaurus/docs-5d0":{"__comp":"a7bd4aaa","__props":"fb9bdceb"},"/helloqt_docusaurus/docs-570":{"__comp":"a94703ab"},"/helloqt_docusaurus/docs-82a":{"__comp":"17896441","content":"c377a04b"},"/helloqt_docusaurus/docs/dev-e15":{"__comp":"14eb3368","__props":"5baff589"},"/helloqt_docusaurus/docs/dev/overview-2d9":{"__comp":"17896441","content":"6db204ee"},"/helloqt_docusaurus/docs/glossary-aa0":{"__comp":"17896441","content":"77016838"},"/helloqt_docusaurus/docs/i18n/overview-da8":{"__comp":"17896441","content":"0735fdac"},"/helloqt_docusaurus/docs/internationalization-00a":{"__comp":"14eb3368","__props":"889af692"},"/helloqt_docusaurus/docs/overview-530":{"__comp":"17896441","content":"ddb4e1f1"},"/helloqt_docusaurus/docs/user-d0a":{"__comp":"14eb3368","__props":"ac18d4cf"},"/helloqt_docusaurus/docs/user/authors-66e":{"__comp":"17896441","content":"65f89028"},"/helloqt_docusaurus/docs/user/case-studies-3ce":{"__comp":"17896441","content":"646028d3"},"/helloqt_docusaurus/docs/user/contact-forms-f91":{"__comp":"17896441","content":"58cbb1bf"},"/helloqt_docusaurus/docs/user/pages-a3f":{"__comp":"17896441","content":"db75cae2"},"/helloqt_docusaurus/docs/user/posts-228":{"__comp":"17896441","content":"01a93421"},"/helloqt_docusaurus/docs/user/theme-4fc":{"__comp":"14eb3368","__props":"f90d5642"},"/helloqt_docusaurus/docs/user/theme/blocks-f54":{"__comp":"17896441","content":"0a4913c9"},"/helloqt_docusaurus/docs/user/theme/navigation-menus-534":{"__comp":"17896441","content":"18f20f41"},"/helloqt_docusaurus/docs/user/theme/template-parts-f9a":{"__comp":"17896441","content":"b0d445e1"},"/helloqt_docusaurus/docs/user/theme/templates-66a":{"__comp":"17896441","content":"357ecb0e"},"/helloqt_docusaurus/-c35":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"f3976560"}}');
 ;// CONCATENATED MODULE: ./.docusaurus/registry.js
-/* harmony default export */ const registry = ({"01a93421":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8123))),"@site/docs/02-user/02-posts.md",/*require.resolve*/(8123)],"0735fdac":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4250))),"@site/docs/03-i18n/overview.md",/*require.resolve*/(4250)],"0a4913c9":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4441))),"@site/docs/02-user/05-theme/blocks.md",/*require.resolve*/(4441)],"14eb3368":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2499))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(2499)],"17896441":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7890))),"@theme/DocItem",/*require.resolve*/(7890)],"18f20f41":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7984))),"@site/docs/02-user/05-theme/navigation-menus.md",/*require.resolve*/(7984)],"1f391b9e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1869))),"@theme/MDXPage",/*require.resolve*/(1869)],"357ecb0e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9940))),"@site/docs/02-user/05-theme/templates.md",/*require.resolve*/(9940)],"58cbb1bf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3344))),"@site/docs/02-user/04-contact-forms.md",/*require.resolve*/(3344)],"5e95c892":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"646028d3":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6403))),"@site/docs/02-user/case-studies.md",/*require.resolve*/(6403)],"65f89028":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(47))),"@site/docs/02-user/03-authors.md",/*require.resolve*/(47)],"6db204ee":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6166))),"@site/docs/04-dev/overview.mdx",/*require.resolve*/(6166)],"77016838":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(432))),"@site/docs/05-glossary.mdx",/*require.resolve*/(432)],"a7456010":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(8552)],"a75341ac":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4330))),"@generated/docusaurus-plugin-content-docs/default/p/docusaurus-docs-user-db6.json",/*require.resolve*/(4330)],"a7bd4aaa":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4532))),"@theme/DocVersionRoot",/*require.resolve*/(4532)],"a94703ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7151))),"@theme/DocRoot",/*require.resolve*/(7151)],"aba21aa0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(7093)],"aef418c3":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2777))),"@generated/docusaurus-plugin-content-docs/default/p/docusaurus-docs-internationalization-ced.json",/*require.resolve*/(2777)],"b0d445e1":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5546))),"@site/docs/02-user/05-theme/template-parts.md",/*require.resolve*/(5546)],"c377a04b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4838))),"@site/docs/index.md",/*require.resolve*/(4838)],"d2655b0a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4371))),"@generated/docusaurus-plugin-content-docs/default/p/docusaurus-docs-dev-da8.json",/*require.resolve*/(4371)],"db75cae2":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1549))),"@site/docs/02-user/01-pages.md",/*require.resolve*/(1549)],"ddb4e1f1":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7811))),"@site/docs/01-overview.md",/*require.resolve*/(7811)],"e5c1c24f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9851))),"@generated/docusaurus-plugin-content-docs/default/p/docusaurus-docs-5c9.json",/*require.resolve*/(9851)],"f3976560":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7365))),"@site/src/pages/index.md",/*require.resolve*/(7365)],"f726bd82":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8050))),"@generated/docusaurus-plugin-content-docs/default/p/docusaurus-docs-user-theme-1c8.json",/*require.resolve*/(8050)]});
+/* harmony default export */ const registry = ({"01a93421":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8123))),"@site/docs/02-user/02-posts.md",/*require.resolve*/(8123)],"0735fdac":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4250))),"@site/docs/03-i18n/overview.md",/*require.resolve*/(4250)],"0a4913c9":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4441))),"@site/docs/02-user/05-theme/blocks.md",/*require.resolve*/(4441)],"14eb3368":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2499))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(2499)],"17896441":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7890))),"@theme/DocItem",/*require.resolve*/(7890)],"18f20f41":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7984))),"@site/docs/02-user/05-theme/navigation-menus.md",/*require.resolve*/(7984)],"1f391b9e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1869))),"@theme/MDXPage",/*require.resolve*/(1869)],"357ecb0e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9940))),"@site/docs/02-user/05-theme/templates.md",/*require.resolve*/(9940)],"58cbb1bf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3344))),"@site/docs/02-user/04-contact-forms.md",/*require.resolve*/(3344)],"5baff589":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6781))),"@generated/docusaurus-plugin-content-docs/default/p/helloqt-docusaurus-docs-dev-6a8.json",/*require.resolve*/(6781)],"5e95c892":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"646028d3":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6403))),"@site/docs/02-user/case-studies.md",/*require.resolve*/(6403)],"65f89028":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(47))),"@site/docs/02-user/03-authors.md",/*require.resolve*/(47)],"6db204ee":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6166))),"@site/docs/04-dev/overview.mdx",/*require.resolve*/(6166)],"77016838":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(432))),"@site/docs/05-glossary.mdx",/*require.resolve*/(432)],"889af692":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7293))),"@generated/docusaurus-plugin-content-docs/default/p/helloqt-docusaurus-docs-internationalization-f73.json",/*require.resolve*/(7293)],"a7456010":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(8552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4532))),"@theme/DocVersionRoot",/*require.resolve*/(4532)],"a94703ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7151))),"@theme/DocRoot",/*require.resolve*/(7151)],"aba21aa0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(7093)],"ac18d4cf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6527))),"@generated/docusaurus-plugin-content-docs/default/p/helloqt-docusaurus-docs-user-8de.json",/*require.resolve*/(6527)],"b0d445e1":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5546))),"@site/docs/02-user/05-theme/template-parts.md",/*require.resolve*/(5546)],"c377a04b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4838))),"@site/docs/index.md",/*require.resolve*/(4838)],"db75cae2":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1549))),"@site/docs/02-user/01-pages.md",/*require.resolve*/(1549)],"ddb4e1f1":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7811))),"@site/docs/01-overview.md",/*require.resolve*/(7811)],"f3976560":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7365))),"@site/src/pages/index.md",/*require.resolve*/(7365)],"f90d5642":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6860))),"@generated/docusaurus-plugin-content-docs/default/p/helloqt-docusaurus-docs-user-theme-415.json",/*require.resolve*/(6860)],"fb9bdceb":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2169))),"@generated/docusaurus-plugin-content-docs/default/p/helloqt-docusaurus-docs-f8a.json",/*require.resolve*/(2169)]});
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(4848);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/core/lib/client/theme-fallback/Loading/index.js
@@ -2489,7 +2489,7 @@ if(typeof chunk==='object'||typeof chunk==='function'){Object.keys(loadedModule)
 let val=loadedModules;const keyPaths=keyPath.split('.');keyPaths.slice(0,-1).forEach(k=>{val=val[k];});val[keyPaths[keyPaths.length-1]]=chunk;});/* eslint-disable no-underscore-dangle */const Component=loadedModules.__comp;delete loadedModules.__comp;const routeContext=loadedModules.__context;delete loadedModules.__context;const routeProps=loadedModules.__props;delete loadedModules.__props;/* eslint-enable no-underscore-dangle */ // Is there any way to put this RouteContextProvider upper in the tree?
 return/*#__PURE__*/(0,jsx_runtime.jsx)(client_routeContext/* RouteContextProvider */.W,{value:routeContext,children:/*#__PURE__*/(0,jsx_runtime.jsx)(Component,{...loadedModules,...routeProps,...props})});}});}
 ;// CONCATENATED MODULE: ./.docusaurus/routes.js
-/* harmony default export */ const routes = ([{path:'/docusaurus/docs',component:ComponentCreator('/docusaurus/docs','bd9'),routes:[{path:'/docusaurus/docs',component:ComponentCreator('/docusaurus/docs','afa'),routes:[{path:'/docusaurus/docs',component:ComponentCreator('/docusaurus/docs','7f9'),routes:[{path:'/docusaurus/docs',component:ComponentCreator('/docusaurus/docs','22a'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/dev',component:ComponentCreator('/docusaurus/docs/dev','70c'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/dev/overview',component:ComponentCreator('/docusaurus/docs/dev/overview','07c'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/glossary',component:ComponentCreator('/docusaurus/docs/glossary','113'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/i18n/overview',component:ComponentCreator('/docusaurus/docs/i18n/overview','37b'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/internationalization',component:ComponentCreator('/docusaurus/docs/internationalization','693'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/overview',component:ComponentCreator('/docusaurus/docs/overview','026'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user',component:ComponentCreator('/docusaurus/docs/user','de2'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/authors',component:ComponentCreator('/docusaurus/docs/user/authors','3cf'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/case-studies',component:ComponentCreator('/docusaurus/docs/user/case-studies','5d3'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/contact-forms',component:ComponentCreator('/docusaurus/docs/user/contact-forms','560'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/pages',component:ComponentCreator('/docusaurus/docs/user/pages','b87'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/posts',component:ComponentCreator('/docusaurus/docs/user/posts','086'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/theme',component:ComponentCreator('/docusaurus/docs/user/theme','e6e'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/theme/blocks',component:ComponentCreator('/docusaurus/docs/user/theme/blocks','e15'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/theme/navigation-menus',component:ComponentCreator('/docusaurus/docs/user/theme/navigation-menus','146'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/theme/template-parts',component:ComponentCreator('/docusaurus/docs/user/theme/template-parts','cf2'),exact:true,sidebar:"docsSidebar"},{path:'/docusaurus/docs/user/theme/templates',component:ComponentCreator('/docusaurus/docs/user/theme/templates','e41'),exact:true,sidebar:"docsSidebar"}]}]}]},{path:'/docusaurus/',component:ComponentCreator('/docusaurus/','13c'),exact:true},{path:'*',component:ComponentCreator('*')}]);
+/* harmony default export */ const routes = ([{path:'/helloqt_docusaurus/docs',component:ComponentCreator('/helloqt_docusaurus/docs','a86'),routes:[{path:'/helloqt_docusaurus/docs',component:ComponentCreator('/helloqt_docusaurus/docs','5d0'),routes:[{path:'/helloqt_docusaurus/docs',component:ComponentCreator('/helloqt_docusaurus/docs','570'),routes:[{path:'/helloqt_docusaurus/docs',component:ComponentCreator('/helloqt_docusaurus/docs','82a'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/dev',component:ComponentCreator('/helloqt_docusaurus/docs/dev','e15'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/dev/overview',component:ComponentCreator('/helloqt_docusaurus/docs/dev/overview','2d9'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/glossary',component:ComponentCreator('/helloqt_docusaurus/docs/glossary','aa0'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/i18n/overview',component:ComponentCreator('/helloqt_docusaurus/docs/i18n/overview','da8'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/internationalization',component:ComponentCreator('/helloqt_docusaurus/docs/internationalization','00a'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/overview',component:ComponentCreator('/helloqt_docusaurus/docs/overview','530'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user',component:ComponentCreator('/helloqt_docusaurus/docs/user','d0a'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/authors',component:ComponentCreator('/helloqt_docusaurus/docs/user/authors','66e'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/case-studies',component:ComponentCreator('/helloqt_docusaurus/docs/user/case-studies','3ce'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/contact-forms',component:ComponentCreator('/helloqt_docusaurus/docs/user/contact-forms','f91'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/pages',component:ComponentCreator('/helloqt_docusaurus/docs/user/pages','a3f'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/posts',component:ComponentCreator('/helloqt_docusaurus/docs/user/posts','228'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/theme',component:ComponentCreator('/helloqt_docusaurus/docs/user/theme','4fc'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/theme/blocks',component:ComponentCreator('/helloqt_docusaurus/docs/user/theme/blocks','f54'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/theme/navigation-menus',component:ComponentCreator('/helloqt_docusaurus/docs/user/theme/navigation-menus','534'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/theme/template-parts',component:ComponentCreator('/helloqt_docusaurus/docs/user/theme/template-parts','f9a'),exact:true,sidebar:"docsSidebar"},{path:'/helloqt_docusaurus/docs/user/theme/templates',component:ComponentCreator('/helloqt_docusaurus/docs/user/theme/templates','66a'),exact:true,sidebar:"docsSidebar"}]}]}]},{path:'/helloqt_docusaurus/',component:ComponentCreator('/helloqt_docusaurus/','c35'),exact:true},{path:'*',component:ComponentCreator('*')}]);
 
 /***/ }),
 
@@ -2558,7 +2558,7 @@ var react = __webpack_require__(6540);
 // EXTERNAL MODULE: ./.docusaurus/docusaurus.config.mjs
 var docusaurus_config = __webpack_require__(4784);
 ;// CONCATENATED MODULE: ./.docusaurus/globalData.json
-const globalData_namespaceObject = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/docusaurus/docs","versions":[{"name":"current","label":"Next","isLast":true,"path":"/docusaurus/docs","mainDocId":"index","docs":[{"id":"dev/overview","path":"/docusaurus/docs/dev/overview","sidebar":"docsSidebar"},{"id":"glossary","path":"/docusaurus/docs/glossary","sidebar":"docsSidebar"},{"id":"i18n/overview","path":"/docusaurus/docs/i18n/overview","sidebar":"docsSidebar"},{"id":"index","path":"/docusaurus/docs/","sidebar":"docsSidebar"},{"id":"overview","path":"/docusaurus/docs/overview","sidebar":"docsSidebar"},{"id":"user/authors","path":"/docusaurus/docs/user/authors","sidebar":"docsSidebar"},{"id":"user/case-studies","path":"/docusaurus/docs/user/case-studies","sidebar":"docsSidebar"},{"id":"user/contact-forms","path":"/docusaurus/docs/user/contact-forms","sidebar":"docsSidebar"},{"id":"user/pages","path":"/docusaurus/docs/user/pages","sidebar":"docsSidebar"},{"id":"user/posts","path":"/docusaurus/docs/user/posts","sidebar":"docsSidebar"},{"id":"user/theme/blocks","path":"/docusaurus/docs/user/theme/blocks","sidebar":"docsSidebar"},{"id":"user/theme/navigation-menus","path":"/docusaurus/docs/user/theme/navigation-menus","sidebar":"docsSidebar"},{"id":"user/theme/template-parts","path":"/docusaurus/docs/user/theme/template-parts","sidebar":"docsSidebar"},{"id":"user/theme/templates","path":"/docusaurus/docs/user/theme/templates","sidebar":"docsSidebar"},{"id":"user","path":"/docusaurus/docs/user","sidebar":"docsSidebar"},{"id":"user/theme","path":"/docusaurus/docs/user/theme","sidebar":"docsSidebar"},{"id":"internationalization","path":"/docusaurus/docs/internationalization","sidebar":"docsSidebar"},{"id":"dev","path":"/docusaurus/docs/dev","sidebar":"docsSidebar"}],"draftIds":[],"sidebars":{"docsSidebar":{"link":{"path":"/docusaurus/docs/","label":"index"}}}}],"breadcrumbs":true}}}');
+const globalData_namespaceObject = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/helloqt_docusaurus/docs","versions":[{"name":"current","label":"Next","isLast":true,"path":"/helloqt_docusaurus/docs","mainDocId":"index","docs":[{"id":"dev/overview","path":"/helloqt_docusaurus/docs/dev/overview","sidebar":"docsSidebar"},{"id":"glossary","path":"/helloqt_docusaurus/docs/glossary","sidebar":"docsSidebar"},{"id":"i18n/overview","path":"/helloqt_docusaurus/docs/i18n/overview","sidebar":"docsSidebar"},{"id":"index","path":"/helloqt_docusaurus/docs/","sidebar":"docsSidebar"},{"id":"overview","path":"/helloqt_docusaurus/docs/overview","sidebar":"docsSidebar"},{"id":"user/authors","path":"/helloqt_docusaurus/docs/user/authors","sidebar":"docsSidebar"},{"id":"user/case-studies","path":"/helloqt_docusaurus/docs/user/case-studies","sidebar":"docsSidebar"},{"id":"user/contact-forms","path":"/helloqt_docusaurus/docs/user/contact-forms","sidebar":"docsSidebar"},{"id":"user/pages","path":"/helloqt_docusaurus/docs/user/pages","sidebar":"docsSidebar"},{"id":"user/posts","path":"/helloqt_docusaurus/docs/user/posts","sidebar":"docsSidebar"},{"id":"user/theme/blocks","path":"/helloqt_docusaurus/docs/user/theme/blocks","sidebar":"docsSidebar"},{"id":"user/theme/navigation-menus","path":"/helloqt_docusaurus/docs/user/theme/navigation-menus","sidebar":"docsSidebar"},{"id":"user/theme/template-parts","path":"/helloqt_docusaurus/docs/user/theme/template-parts","sidebar":"docsSidebar"},{"id":"user/theme/templates","path":"/helloqt_docusaurus/docs/user/theme/templates","sidebar":"docsSidebar"},{"id":"user","path":"/helloqt_docusaurus/docs/user","sidebar":"docsSidebar"},{"id":"user/theme","path":"/helloqt_docusaurus/docs/user/theme","sidebar":"docsSidebar"},{"id":"internationalization","path":"/helloqt_docusaurus/docs/internationalization","sidebar":"docsSidebar"},{"id":"dev","path":"/helloqt_docusaurus/docs/dev","sidebar":"docsSidebar"}],"draftIds":[],"sidebars":{"docsSidebar":{"link":{"path":"/helloqt_docusaurus/docs/","label":"index"}}}}],"breadcrumbs":true}}}');
 ;// CONCATENATED MODULE: ./.docusaurus/i18n.json
 const i18n_namespaceObject = /*#__PURE__*/JSON.parse('{"defaultLocale":"en","locales":["en"],"path":"i18n","currentLocale":"en","localeConfigs":{"en":{"label":"English","direction":"ltr","htmlLang":"en","calendar":"gregory","path":"en"}}}');
 // EXTERNAL MODULE: ./.docusaurus/codeTranslations.json
@@ -12668,8 +12668,9 @@ module.exports = require("util");
   "title": "HelloQt Theme Documentation",
   "tagline": "Theme documentation for HelloQt.de",
   "favicon": "img/favicon.ico",
-  "url": "http://localhost",
-  "baseUrl": "/docusaurus/",
+  "url": "https://AntonMomot.github.io",
+  "baseUrl": "/helloqt_docusaurus/",
+  "deploymentBranch": "main",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -16222,43 +16223,43 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-doc
 
 /***/ }),
 
-/***/ 9851:
+/***/ 6781:
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"docsSidebar":[{"type":"link","label":"Introduction","href":"/docusaurus/docs/","docId":"index","unlisted":false},{"type":"link","label":"Theme Overview","href":"/docusaurus/docs/overview","docId":"overview","unlisted":false},{"type":"category","label":"User Guide","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Pages","href":"/docusaurus/docs/user/pages","docId":"user/pages","unlisted":false},{"type":"link","label":"Blog Posts","href":"/docusaurus/docs/user/posts","docId":"user/posts","unlisted":false},{"type":"link","label":"Author Profiles","href":"/docusaurus/docs/user/authors","docId":"user/authors","unlisted":false},{"type":"link","label":"Case Studies","href":"/docusaurus/docs/user/case-studies","docId":"user/case-studies","unlisted":false},{"type":"link","label":"Contact Forms","href":"/docusaurus/docs/user/contact-forms","docId":"user/contact-forms","unlisted":false},{"type":"category","label":"Theme","collapsible":true,"collapsed":true,"customProps":{"description":"Managing overall site design and layout."},"items":[{"type":"link","label":"Templates","href":"/docusaurus/docs/user/theme/templates","docId":"user/theme/templates","unlisted":false},{"type":"link","label":"Template Parts","href":"/docusaurus/docs/user/theme/template-parts","docId":"user/theme/template-parts","unlisted":false},{"type":"link","label":"Navigation Menus","href":"/docusaurus/docs/user/theme/navigation-menus","docId":"user/theme/navigation-menus","unlisted":false},{"type":"link","label":"Blocks","href":"/docusaurus/docs/user/theme/blocks","docId":"user/theme/blocks","unlisted":false}],"href":"/docusaurus/docs/user/theme"}],"href":"/docusaurus/docs/user"},{"type":"category","label":"Internationalization","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Overview","href":"/docusaurus/docs/i18n/overview","docId":"i18n/overview","unlisted":false}],"href":"/docusaurus/docs/internationalization"},{"type":"category","label":"Technical Guide","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Overview","href":"/docusaurus/docs/dev/overview","docId":"dev/overview","unlisted":false}],"href":"/docusaurus/docs/dev"},{"type":"link","label":"Glossary","href":"/docusaurus/docs/glossary","docId":"glossary","unlisted":false}]},"docs":{"dev/overview":{"id":"dev/overview","title":"Overview","description":"","sidebar":"docsSidebar"},"glossary":{"id":"glossary","title":"Glossary","description":"C","sidebar":"docsSidebar"},"i18n/overview":{"id":"i18n/overview","title":"Overview","description":"This section focuses on Translation Management.","sidebar":"docsSidebar"},"index":{"id":"index","title":"Introduction","description":"HelloQt theme documentation","sidebar":"docsSidebar"},"overview":{"id":"overview","title":"Theme Overview","description":"An overview of the theme and it\'s components.","sidebar":"docsSidebar"},"user/authors":{"id":"user/authors","title":"Author Profiles","description":"How to manage public author information","sidebar":"docsSidebar"},"user/case-studies":{"id":"user/case-studies","title":"Case Studies","description":"Creating and managing case studies","sidebar":"docsSidebar"},"user/contact-forms":{"id":"user/contact-forms","title":"Contact Forms","description":"Managing Contact and Newsletter forms","sidebar":"docsSidebar"},"user/pages":{"id":"user/pages","title":"Pages","description":"Creating and managing pages","sidebar":"docsSidebar"},"user/posts":{"id":"user/posts","title":"Blog Posts","description":"Creating and managing blog posts","sidebar":"docsSidebar"},"user/theme/blocks":{"id":"user/theme/blocks","title":"Blocks","description":"HelloQt blocks","sidebar":"docsSidebar"},"user/theme/navigation-menus":{"id":"user/theme/navigation-menus","title":"Navigation Menus","description":"Create and manage navigation menus","sidebar":"docsSidebar"},"user/theme/template-parts":{"id":"user/theme/template-parts","title":"Template Parts","description":"The pieces that make up a template","sidebar":"docsSidebar"},"user/theme/templates":{"id":"user/theme/templates","title":"Templates","description":"Content layout","sidebar":"docsSidebar"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Technical Guide","slug":"dev","permalink":"/helloqt_docusaurus/docs/dev","sidebar":"docsSidebar","navigation":{"previous":{"title":"Overview","permalink":"/helloqt_docusaurus/docs/i18n/overview"},"next":{"title":"Overview","permalink":"/helloqt_docusaurus/docs/dev/overview"}}}}');
 
 /***/ }),
 
-/***/ 4371:
+/***/ 2169:
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Technical Guide","slug":"dev","permalink":"/docusaurus/docs/dev","sidebar":"docsSidebar","navigation":{"previous":{"title":"Overview","permalink":"/docusaurus/docs/i18n/overview"},"next":{"title":"Overview","permalink":"/docusaurus/docs/dev/overview"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"docsSidebar":[{"type":"link","label":"Introduction","href":"/helloqt_docusaurus/docs/","docId":"index","unlisted":false},{"type":"link","label":"Theme Overview","href":"/helloqt_docusaurus/docs/overview","docId":"overview","unlisted":false},{"type":"category","label":"User Guide","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Pages","href":"/helloqt_docusaurus/docs/user/pages","docId":"user/pages","unlisted":false},{"type":"link","label":"Blog Posts","href":"/helloqt_docusaurus/docs/user/posts","docId":"user/posts","unlisted":false},{"type":"link","label":"Author Profiles","href":"/helloqt_docusaurus/docs/user/authors","docId":"user/authors","unlisted":false},{"type":"link","label":"Case Studies","href":"/helloqt_docusaurus/docs/user/case-studies","docId":"user/case-studies","unlisted":false},{"type":"link","label":"Contact Forms","href":"/helloqt_docusaurus/docs/user/contact-forms","docId":"user/contact-forms","unlisted":false},{"type":"category","label":"Theme","collapsible":true,"collapsed":true,"customProps":{"description":"Managing overall site design and layout."},"items":[{"type":"link","label":"Templates","href":"/helloqt_docusaurus/docs/user/theme/templates","docId":"user/theme/templates","unlisted":false},{"type":"link","label":"Template Parts","href":"/helloqt_docusaurus/docs/user/theme/template-parts","docId":"user/theme/template-parts","unlisted":false},{"type":"link","label":"Navigation Menus","href":"/helloqt_docusaurus/docs/user/theme/navigation-menus","docId":"user/theme/navigation-menus","unlisted":false},{"type":"link","label":"Blocks","href":"/helloqt_docusaurus/docs/user/theme/blocks","docId":"user/theme/blocks","unlisted":false}],"href":"/helloqt_docusaurus/docs/user/theme"}],"href":"/helloqt_docusaurus/docs/user"},{"type":"category","label":"Internationalization","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Overview","href":"/helloqt_docusaurus/docs/i18n/overview","docId":"i18n/overview","unlisted":false}],"href":"/helloqt_docusaurus/docs/internationalization"},{"type":"category","label":"Technical Guide","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Overview","href":"/helloqt_docusaurus/docs/dev/overview","docId":"dev/overview","unlisted":false}],"href":"/helloqt_docusaurus/docs/dev"},{"type":"link","label":"Glossary","href":"/helloqt_docusaurus/docs/glossary","docId":"glossary","unlisted":false}]},"docs":{"dev/overview":{"id":"dev/overview","title":"Overview","description":"","sidebar":"docsSidebar"},"glossary":{"id":"glossary","title":"Glossary","description":"C","sidebar":"docsSidebar"},"i18n/overview":{"id":"i18n/overview","title":"Overview","description":"This section focuses on Translation Management.","sidebar":"docsSidebar"},"index":{"id":"index","title":"Introduction","description":"HelloQt theme documentation","sidebar":"docsSidebar"},"overview":{"id":"overview","title":"Theme Overview","description":"An overview of the theme and it\'s components.","sidebar":"docsSidebar"},"user/authors":{"id":"user/authors","title":"Author Profiles","description":"How to manage public author information","sidebar":"docsSidebar"},"user/case-studies":{"id":"user/case-studies","title":"Case Studies","description":"Creating and managing case studies","sidebar":"docsSidebar"},"user/contact-forms":{"id":"user/contact-forms","title":"Contact Forms","description":"Managing Contact and Newsletter forms","sidebar":"docsSidebar"},"user/pages":{"id":"user/pages","title":"Pages","description":"Creating and managing pages","sidebar":"docsSidebar"},"user/posts":{"id":"user/posts","title":"Blog Posts","description":"Creating and managing blog posts","sidebar":"docsSidebar"},"user/theme/blocks":{"id":"user/theme/blocks","title":"Blocks","description":"HelloQt blocks","sidebar":"docsSidebar"},"user/theme/navigation-menus":{"id":"user/theme/navigation-menus","title":"Navigation Menus","description":"Create and manage navigation menus","sidebar":"docsSidebar"},"user/theme/template-parts":{"id":"user/theme/template-parts","title":"Template Parts","description":"The pieces that make up a template","sidebar":"docsSidebar"},"user/theme/templates":{"id":"user/theme/templates","title":"Templates","description":"Content layout","sidebar":"docsSidebar"}}}}');
 
 /***/ }),
 
-/***/ 2777:
+/***/ 7293:
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Internationalization","slug":"internationalization","permalink":"/docusaurus/docs/internationalization","sidebar":"docsSidebar","navigation":{"previous":{"title":"Blocks","permalink":"/docusaurus/docs/user/theme/blocks"},"next":{"title":"Overview","permalink":"/docusaurus/docs/i18n/overview"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Internationalization","slug":"internationalization","permalink":"/helloqt_docusaurus/docs/internationalization","sidebar":"docsSidebar","navigation":{"previous":{"title":"Blocks","permalink":"/helloqt_docusaurus/docs/user/theme/blocks"},"next":{"title":"Overview","permalink":"/helloqt_docusaurus/docs/i18n/overview"}}}}');
 
 /***/ }),
 
-/***/ 4330:
+/***/ 6527:
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"User Guide","slug":"user","permalink":"/docusaurus/docs/user","sidebar":"docsSidebar","navigation":{"previous":{"title":"Theme Overview","permalink":"/docusaurus/docs/overview"},"next":{"title":"Pages","permalink":"/docusaurus/docs/user/pages"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"User Guide","slug":"user","permalink":"/helloqt_docusaurus/docs/user","sidebar":"docsSidebar","navigation":{"previous":{"title":"Theme Overview","permalink":"/helloqt_docusaurus/docs/overview"},"next":{"title":"Pages","permalink":"/helloqt_docusaurus/docs/user/pages"}}}}');
 
 /***/ }),
 
-/***/ 8050:
+/***/ 6860:
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Theme","slug":"user/theme","permalink":"/docusaurus/docs/user/theme","sidebar":"docsSidebar","navigation":{"previous":{"title":"Contact Forms","permalink":"/docusaurus/docs/user/contact-forms"},"next":{"title":"Templates","permalink":"/docusaurus/docs/user/theme/templates"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Theme","slug":"user/theme","permalink":"/helloqt_docusaurus/docs/user/theme","sidebar":"docsSidebar","navigation":{"previous":{"title":"Contact Forms","permalink":"/helloqt_docusaurus/docs/user/contact-forms"},"next":{"title":"Templates","permalink":"/helloqt_docusaurus/docs/user/theme/templates"}}}}');
 
 /***/ }),
 
@@ -16348,7 +16349,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-pag
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/docusaurus/";
+/******/ 		__webpack_require__.p = "/helloqt_docusaurus/";
 /******/ 	})();
 /******/ 	
 /************************************************************************/

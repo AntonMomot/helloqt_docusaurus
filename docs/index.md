@@ -1,6 +1,8 @@
 ---
 sidebar_position: 0
 description: HelloQt theme documentation
+id: my-home-doc
+slug: /
 ---
 
 # Introduction
